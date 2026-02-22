@@ -2,7 +2,7 @@
 
 ### 💫 Github Status
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HikariLua&layout=compact&theme=rose_pine&bg_color=FFEEFF&title_color=FF9EBE&text_color=7A5C7A&icon_color=FF9EBE&border_color=F8C8DC&langs_count=20)](https://github.com/HikariLua)
-[![HikariLua's Stats](https://github-readme-stats.vercel.app/api?username=HikariLua&show_icons=true&custom_title=HikariLua%27s%20Stats&theme=buefy&bg_color=FFEEFF&title_color=FF9EBE&text_color=7A5C7A&icon_color=FF9EBE&border_color=F8C8FC&hide=contribs)](https://github.com/HikariLua)
+[![HikariLua's Stats](https://github-readme-stats-fast.vercel.app/api?username=HikariLua&show_icons=true&custom_title=HikariLua%27s%20Stats&theme=buefy&bg_color=FFEEFF&title_color=FF9EBE&text_color=7A5C7A&icon_color=FF9EBE&border_color=F8C8DC&hide=contribs)](https://github.com/HikariLua)
 
 ### 🌈 Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HikariLua&theme=minimal&bg_color=FFEEFF&color=FF9EBE&line=F8C8DC&point=FF6B97&hide_border=true&area=true&area_color=FFEEFF)](https://github.com/HikariLua)
